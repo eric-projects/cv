@@ -1,5 +1,10 @@
 # cv
 
+  描述：个人简历站点。主要通过vue 组件化思想，重构了简历模版结构。
+  
+ ![个人简历](https://github.com/eric-projects/cv/blob/master/src/assets/projects/cv.png) 
+ 
+ 
 ## Project setup
 ```
 npm install
@@ -22,3 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+资源声明：  
+  https://github.com/gwuhaolin/resume  
+  https://www.antdv.com/docs/vue/introduce-cn/  
