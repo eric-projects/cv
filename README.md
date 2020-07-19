@@ -25,10 +25,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
 资源声明：  
   https://github.com/gwuhaolin/resume  
   https://www.antdv.com/docs/vue/introduce-cn/  
