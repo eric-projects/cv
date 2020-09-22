@@ -42,7 +42,7 @@ export default {
           desc:
             "该项目是在心力教育学习期间以小组为团队完成的一个实践项目,团队5人,我主要负责项目计划、测试需求分析、测试分析和总结分析,系统测试用例设计、执行",
           url: "",
-          img: require("../assets/projects/xchr.png"),
+          img: require("../assets/projects/project.png"),
           list: [
             "全程使用测试管理工具TestDirector进行管理。",
             "全程使用测试管理工具TestDirector进行管理。",
@@ -54,7 +54,7 @@ export default {
           desc:
             "该项目是在心力教育学习期间以小组为团队完成的一个实践项目,团队5人,我主要负责项目计划、测试需求分析、测试分析和总结分析,系统测试用例设计、执行",
           url: "",
-          img: require("../assets/projects/xchr.png"),
+          img: require("../assets/projects/project.png"),
           list: [
             "全程使用测试管理工具TestDirector进行管理。",
             "全程使用测试管理工具TestDirector进行管理。",
@@ -66,7 +66,7 @@ export default {
           desc:
             "该项目是在心力教育学习期间以小组为团队完成的一个实践项目,团队5人,我主要负责项目计划、测试需求分析、测试分析和总结分析,系统测试用例设计、执行",
           url: "",
-          img: require("../assets/projects/xchr.png"),
+          img: require("../assets/projects/project.png"),
           list: [
             "全程使用测试管理工具TestDirector进行管理。",
             "全程使用测试管理工具TestDirector进行管理。",
